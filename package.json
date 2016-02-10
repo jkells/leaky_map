@@ -1,0 +1,19 @@
+{
+  "name": "leaky-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jkells/leaky_map.git"
+  },
+  "author": "Jared Kells",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkells/leaky_map/issues"
+  },
+  "homepage": "https://github.com/jkells/leaky_map#readme"
+}
